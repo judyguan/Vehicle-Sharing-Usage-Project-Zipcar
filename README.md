@@ -1,5 +1,4 @@
 # Vehicle-Sharing-Usage-Project-Zipcar
-	INSTRUCTIONS FOR GROUP PROJECT 
 
 In research, working in groups is a key to success. Research is an activity performed in teams.  This is your chance to learn how to overcome the challenges of working in a team in order to achieve a common goal.  This project gives you the opportunity to experience all phases of the research process.   The requirements for this assignment are as follows:
 
